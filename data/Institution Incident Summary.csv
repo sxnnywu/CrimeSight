@@ -1,0 +1,25 @@
+﻿_id,YEAR,INSTITUTION,NUMBER_OF_INCIDENTS,NUMBER_UNIQUE_INMATE_PARTICIPANT,NUMBER_UNIQUE_STAFF_PARTICIPANT,USE_OF_FORCE_RATE
+1,2023,Hamilton Wentworth Detention Centre,205,287,186,11
+2,2023,Maplehurst Correctional Complex,624,758,429,14.3
+3,2023,Niagara Detention Centre,127,168,115,14.1
+4,2023,Vanier Centre for Women,214,176,180,23.1
+5,2023,Brockville Jail,36,35,62,18.6
+6,2023,Central East Correctional Centre,357,482,327,8.8
+7,2023,Ottawa Carleton Detention Centre,227,239,214,11.3
+8,2023,Quinte Detention Centre,64,117,93,6.9
+9,2023,St Lawrence Valley Correctional and Treatment Centre,8,11,32,2.4
+10,2023,Algoma Treatment and Remand Centre,37,39,84,6.8
+11,2023,Fort Frances Jail,3,5,6,4.3
+12,2023,Kenora Jail,72,99,105,11.3
+13,2023,Monteith Correctional Complex,81,92,93,10.7
+14,2023,North Bay Jail,55,69,54,14.6
+15,2023,Sudbury Jail,92,192,99,14.4
+16,2023,Thunder Bay Correctional Centre,30,33,63,5.2
+17,2023,Thunder Bay Jail,72,114,85,12.7
+18,2023,Toronto East Detention Centre,106,155,141,8.2
+19,2023,Toronto South Detention Centre,686,636,576,14.2
+20,2023,Central North Correctional Centre,184,282,273,5.1
+21,2023,Elgin Middlesex Detention Centre,201,243,214,11.7
+22,2023,Sarnia Jail,17,24,32,5.5
+23,2023,South West Detention Centre,184,195,198,14.8
+24,2023,Stratford Jail,7,7,19,4.8
